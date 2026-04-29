@@ -1,0 +1,1 @@
+print(("PIN must be a 3-digit integer number!").upper())
